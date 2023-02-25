@@ -1,0 +1,13 @@
+.nav {
+    display: 'flex';
+    align-items: 'center';
+    background-color: '#21222A';
+    border-radius: '30px';
+    margin: '20px';
+}
+
+.title{
+    padding: '10px';
+    color: '#00D8FF';
+    display: 'flex'
+}
